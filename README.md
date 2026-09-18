@@ -112,5 +112,5 @@ This makes it possible to perform combined analysis such as:
 
 This folder contains a complete retail sales analysis project using Power BI and CSV-based source data. It presents a polished dashboard for exploring store performance, regional sales, payment behavior, and profit trends while keeping the underlying data available for further analysis and reporting.
 
----
+## Output
 <img width="1437" height="806" alt="Madhav_Sales_Dashboard" src="https://github.com/user-attachments/assets/0556cd11-860a-4ed4-9510-82196e34761c" />
